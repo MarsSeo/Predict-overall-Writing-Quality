@@ -7,3 +7,5 @@
 </p>
 
 ---
+<img width="1162" alt="private_higest_score" src="https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/8c152a35-c9ec-4150-8f2d-576720d5a79d">
+
