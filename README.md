@@ -8,7 +8,7 @@
 
 ---
 
-### Unselected Submissions
+### Our Unselected Submissions
 <img width="1223" alt="our_score" src="https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/228b63dd-5fd8-4f8f-9fde-3b95fcbdbaa7">
 
 ---
