@@ -9,3 +9,5 @@
 ---
 <img width="1162" alt="private_higest_score" src="https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/8c152a35-c9ec-4150-8f2d-576720d5a79d">
 
+<img width="1216" alt="compare_LB" src="https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/c3ce91d4-0b81-4610-838d-9340f4ae6551">
+
