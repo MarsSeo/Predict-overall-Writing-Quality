@@ -2,7 +2,8 @@
 
 <p align='center'>
   
-![header_image](https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/4526802d-a9b3-47f7-a017-0cc2ab9d886e)
+![header_image](https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/e4a15cf0-4087-4fba-998e-edcfde2a050e)
+
 
 </p>
 
