@@ -18,10 +18,13 @@ This project revolves around an innovative competition designed to predict overa
 
 The essence of this competition extended beyond the boundaries of standard predictive modeling. It explored the complex array of behavioral and cognitive activities involved in writing. The competition recognized that writing involves a variety of techniques for planning, revising, and execution, each of which contributes distinct patterns like pauses, additions, deletions, and revisions. These nuances often go unnoticed in traditional writing assessments, which predominantly focus on the final written product. The competition thus sought to illuminate these overlooked aspects of the writing process.
 
+---
+
 ## Objectives
 
 The core challenge was to leverage process features extracted from keystroke logs to predict the overall quality of writing. This ambitious endeavor aimed to reveal deeper connections between writers' behaviors during the writing process and the eventual quality of their work. By focusing on these process features, the competition aspired to enhance current writing assessment tools that typically center on the end product. The broader goal was to influence educational methodologies, potentially leading to improved teaching strategies that foster autonomy, metacognitive awareness, and self-regulation among students in their writing endeavors.
 
+---
 
 ### Our Unselected Submissions
 <img width="1223" alt="our_score" src="https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/228b63dd-5fd8-4f8f-9fde-3b95fcbdbaa7">
