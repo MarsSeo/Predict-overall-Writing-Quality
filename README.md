@@ -34,6 +34,19 @@ The core challenge was to leverage process features extracted from keystroke log
 * Utilized advanced methods in feature engineering for improved model performance.
 * Integrated linear models with non-linear (tree-based/deep learning) models for better predictions.
 
+---
+
+## Feature Engineering Method
+
+* Extracted text input activity, then processed and combined changes to reconstruct essays.
+* Calculated statistical metrics on word, sentence, and paragraph lengths in essays.
+* Aggregated key typing actions and events to understand user input patterns.
+* Engineered features from time gaps between typing actions for behavioral insights.
+* Developed word-based features, analyzing input words' lengths and frequencies in texts.
+* Integrated latency and pause metrics to capture timing dynamics in writing process.
+
+---
+
 ### Our Unselected Submissions
 <img width="1223" alt="our_score" src="https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/228b63dd-5fd8-4f8f-9fde-3b95fcbdbaa7">
 
