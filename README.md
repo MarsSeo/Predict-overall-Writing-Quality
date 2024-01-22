@@ -49,6 +49,12 @@ The core challenge was to leverage process features extracted from keystroke log
 
 ## Modeling Method
 
+* Employed LightGBM, CatBoost, XGBoost, SVR models with finely tuned hyperparameters for optimization.
+* Conducted rigorous cross-validation, focusing on minimizing RMSE and analyzing feature importance.
+* Applied common feature sets across models, enhancing prediction consistency and model effectiveness.
+* Optimized ensemble blending weights iteratively to balance model predictions and maximize accuracy.
+
+---
 
 ## Result Analysis
 
