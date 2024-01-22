@@ -10,15 +10,17 @@
 
 ## Introduction
 
-This project is centered around an intriguing competition that sought to predict overall writing quality through the analysis of typing behavior and process features. Spanning from October 3, 2023, to January 10, 2024, the competition presented a unique blend of data science and linguistic study. The primary objective was to create a model trained on extensive keystroke log datasets, highlighting different facets of the writing process. This approach aimed to unravel the complex relationship between various writing behaviors and the resultant quality of written essays.
+This project revolves around an innovative competition designed to predict overall writing quality by analyzing typing behavior and process features. Held from October 3, 2023, to January 10, 2024, this competition merged the realms of data science and linguistic analysis. It provided a unique platform to explore how different aspects of the writing process, captured through extensive keystroke log datasets, influence the quality of written essays.
 
 ---
 
 ## Background
 
-The competition was more than a mere exercise in predictive modeling. It delved into the intricate web of behavioral actions and cognitive activities inherent in the writing process. Writers employ diverse techniques for planning, revising, and executing their work, each leaving distinct patterns in their writing, such as pauses, additions, deletions, and revisions. While traditional assessments of writing quality focus predominantly on the final product, this competition aimed to shine a light on the journey towards that end.
+The essence of this competition extended beyond the boundaries of standard predictive modeling. It explored the complex array of behavioral and cognitive activities involved in writing. The competition recognized that writing involves a variety of techniques for planning, revising, and execution, each of which contributes distinct patterns like pauses, additions, deletions, and revisions. These nuances often go unnoticed in traditional writing assessments, which predominantly focus on the final written product. The competition thus sought to illuminate these overlooked aspects of the writing process.
 
-The challenge was to use process features from keystroke log data to predict overall writing quality. This task not only had the potential to uncover new insights into learners’ writing behaviors but also to enhance current writing assessment tools, which mainly focus on final written products. Ultimately, this could lead to more effective teaching strategies, fostering students' autonomy, metacognitive awareness, and self-regulation in writing.
+## Objectives
+
+The core challenge was to leverage process features extracted from keystroke logs to predict the overall quality of writing. This ambitious endeavor aimed to reveal deeper connections between writers' behaviors during the writing process and the eventual quality of their work. By focusing on these process features, the competition aspired to enhance current writing assessment tools that typically center on the end product. The broader goal was to influence educational methodologies, potentially leading to improved teaching strategies that foster autonomy, metacognitive awareness, and self-regulation among students in their writing endeavors.
 
 
 ### Our Unselected Submissions
