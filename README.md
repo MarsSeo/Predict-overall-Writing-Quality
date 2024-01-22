@@ -47,6 +47,13 @@ The core challenge was to leverage process features extracted from keystroke log
 
 ---
 
+## Modeling Method
+
+
+## Result Analysis
+
+In our project's results section, we acknowledge that although our final score didn't meet our highest expectations, our model achieved a noteworthy cross-validation score of 0.59, surpassing many competitors. This solid CV performance underscores the effectiveness of our feature engineering and modeling approach in the context of essay evaluation. Interestingly, our post-competition analysis revealed that some of our unselected submissions fell within the silver medal scoring range. This near-miss with a higher accolade demonstrates the potential of our methods and sets a promising direction for future improvements.
+
 ### Our Unselected Submissions
 <img width="1223" alt="our_score" src="https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/228b63dd-5fd8-4f8f-9fde-3b95fcbdbaa7">
 
