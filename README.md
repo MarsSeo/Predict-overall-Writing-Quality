@@ -26,6 +26,14 @@ The core challenge was to leverage process features extracted from keystroke log
 
 ---
 
+## Novel Approach
+
+* Optimized iterative blending of model weights for enhanced predictive accuracy.
+* Employed Out-Of-Fold prediction with 10-fold cross-validation for each model number.
+* Conducted extensive feature engineering, developing over 400 distinct and informative features.
+* Utilized advanced methods in feature engineering for improved model performance.
+* Integrated linear models with non-linear (tree-based/deep learning) models for better predictions.
+
 ### Our Unselected Submissions
 <img width="1223" alt="our_score" src="https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/228b63dd-5fd8-4f8f-9fde-3b95fcbdbaa7">
 
