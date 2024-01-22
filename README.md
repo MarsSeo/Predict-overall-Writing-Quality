@@ -1,10 +1,5 @@
-# Predict-overall-Writing-Quality
-
-<p align='center'>
-  
-![header_image](https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/e4a15cf0-4087-4fba-998e-edcfde2a050e)
-
-
+<p align="center">
+  # Predict-overall-Writing-Quality
 </p>
 
 ---
