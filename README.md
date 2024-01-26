@@ -45,12 +45,12 @@ The core challenge was to leverage process features extracted from keystroke log
 
 ## Modeling Method
 
+<img width="1300" alt="image" src="https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/beabb5bd-af23-4323-98a8-03dbfc49be70">
+
 * Employed LightGBM, CatBoost, XGBoost, SVR models with finely tuned hyperparameters for optimization.
 * Conducted rigorous cross-validation, focusing on minimizing RMSE and analyzing feature importance.
 * Applied common feature sets across models, enhancing prediction consistency and model effectiveness.
 * Optimized ensemble blending weights iteratively to balance model predictions and maximize accuracy.
-
-<img width="379" alt="image" src="https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/316888bd-3293-48d4-ba20-276d58028864">
 
 ---
 
