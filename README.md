@@ -50,6 +50,8 @@ The core challenge was to leverage process features extracted from keystroke log
 * Applied common feature sets across models, enhancing prediction consistency and model effectiveness.
 * Optimized ensemble blending weights iteratively to balance model predictions and maximize accuracy.
 
+<img width="379" alt="image" src="https://github.com/MarsSeo/Predict-overall-Writing-Quality/assets/103374757/316888bd-3293-48d4-ba20-276d58028864">
+
 ---
 
 ## Result Analysis
